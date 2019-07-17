@@ -3,13 +3,11 @@
 ![Language](https://img.shields.io/badge/language-swift-orange.svg?style=flat)&nbsp;
 ![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)
 
-##Introduce
+## Introduce
 ```
-BETVICTOR Wade is headed by MayFly Entertainment Co., Ltd., which was founded on the Isle of Man. It has a license issued by the Isle of Man Government. BETVICTOR, founded in Britain in 1946, is one of the world's leading online gambling brands. In the past 70 years, it has spared no effort to provide gambling products with high efficiency, excellence and safety for global players, and has been widely recognized for its high-end service quality, bringing the best online entertainment experience.
+BETVICTOR伟德由成立于马恩岛的MayFly娱乐有限公司掌舵，拥有马恩岛政府所发执照。1946年始创于英国的BETVICTOR，是世界领先的网络博彩品牌之一，70年来不余遗力为全球玩家提供高效、卓越与安全的博彩产品，并以高端的服务品质获得广泛认可，带来最佳的在线娱乐体验。
 ```
 
-##How To Use
-###view the website or download the android/iOS apps
-###for more infomation
+## How To Use
 ![invateLink](invite.png)(https://www.betvictor23.com/zh-cn/raf/VZMAX?platform=android)
 
