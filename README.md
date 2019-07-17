@@ -12,6 +12,8 @@
 
 ## How To Use
 ![invateLink](invite.png)
+
+
 [Downloads](https://www.betvictor23.com/zh-cn/raf/VZMAX?platform=android)
 
 ## 效果
